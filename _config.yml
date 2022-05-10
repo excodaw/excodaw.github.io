@@ -105,7 +105,7 @@ author:
   name             : "EXCODAW"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "Republic of Korea"
+  location         : # "Republic of Korea"
   email            :
   links:
     - label: "Email"
